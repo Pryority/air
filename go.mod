@@ -1,9 +1,9 @@
-module github.com/pryority/air
+module github.com/cosmtrek/air
 
 go 1.20
 
 require (
-	dario.cat/mergo v1.0.0
+	github.com/imdario/mergo v1.0.0
 	github.com/creack/pty v1.1.18
 	github.com/fatih/color v1.14.1
 	github.com/fsnotify/fsnotify v1.6.0
